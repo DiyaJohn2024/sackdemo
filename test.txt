@@ -1,1 +1,38 @@
 hello world
+im here too
+okay diya
+terminal works?
+some editing problem
+now try, i enabled it
+works
+-m "commit_msg"
+commit done
+pull ... don't know how
+wait .. shld 
+u need to push first na?
+okay
+
+git remote add origin https://github.com/DiyaJohn2024/sackdemo.git
+git push -u origin master
+diya r u editing ??... or is my system upto something??
+right now... no..
+i just tried the push command...
+ohh ... 
+one small doubt... isn't a
+??buhtig eht no detcelfer eb ekam ew taht segnahc e
+
+disha... type again please
+the changes that we make on here shldn't it be reflected on github repo???
+
+i searched about that yesterday.
+github is separate from this... until u push it from here... u cant see there
+this is just for working together at the same time
+github is more maintaining versions of our code... so between between.. we need to push
+
+we just pushed it right ... so y
+ is 
+
+ it is showing
+
+ ahh the thing is... right now.. i think u r on main branch... change it to master...
+ everything is shown thereall the files in this folder is there
